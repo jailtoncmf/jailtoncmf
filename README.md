@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# <img src="https://media.tenor.com/xzD3kRKlfcUAAAAM/cristiano-ronaldo-ronaldo-im-here.gif" width="28px"> Calma, eu estou aqui
+# <img src="https://media.tenor.com/xzD3kRKlfcUAAAAM/cristiano-ronaldo-ronaldo-im-here.gif" width="50px"> Calma, eu estou aqui
 </div>
 
 # 👨‍💻 Jailton Mocitaiba
