@@ -9,7 +9,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou Jailton, estudante de Engenharia de Software e desenvolvedor. Tenho experiência com backend e frontend, utilizando Java (Spring Boot, Hibernate, Android SDK), Python (Django, FastAPI, Flask), JavaScript/TypeScript (React), HTML, CSS e bancos de dados, como PostgreSQL. Desenvolvo sistemas e aplicações com foco principal em criar soluções eficientes, escaláveis e de alta qualidade, aplicando princípios de POO, design patterns, SOLID e testes automatizados.
+Sou Jailton, estudante de Engenharia de Software e desenvolvedor. Tenho experiência com backend e frontend, utilizando Java (Spring Boot, Hibernate, Android SDK), Python (Django, FastAPI, Flask), JavaScript/TypeScript (React, Node), HTML, CSS e bancos de dados, como PostgreSQL. Desenvolvo sistemas e aplicações com foco principal em criar soluções eficientes, escaláveis e de alta qualidade, aplicando princípios de POO, design patterns, SOLID e testes automatizados.
 
 ---
 
