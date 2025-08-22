@@ -9,7 +9,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou Jailton, estudante de Engenharia de Software e desenvolvedor. Tenho experiência com backend e frontend, utilizando Java (Spring Boot, Hibernate, Android SDK), Python (Django, FastAPI, Flask), JavaScript/TypeScript (React, Node), HTML, CSS e bancos de dados, como PostgreSQL. Desenvolvo sistemas e aplicações com foco principal em criar soluções eficientes, escaláveis e de alta qualidade, aplicando princípios de POO, design patterns, SOLID e testes automatizados.
+Na minha jornada como estudante e desenvolvedor, desenvolvi e colaborei em projetos backend e frontend, utilizando Java (Spring Boot, Hibernate, Android SDK), Python (Django, FastAPI, Flask), JavaScript/TypeScript (React, Node), HTML, CSS, bancos de dados como PostgreSQL, além de AWS (EC2, S3, Lambda, CloudWatch) e Kafka. De forma que o foco principal é resolver problemas de forma eficiente e segura. Dessa forma, aderi às boas práticas de desenvolvimento, aplicando princípios de POO, design patterns, SOLID e testes automatizados, criando soluções escaláveis, robustas e de alta qualidade. 
 
 ---
 
@@ -32,6 +32,7 @@ Sou Jailton, estudante de Engenharia de Software e desenvolvedor. Tenho experiê
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">&nbsp;
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">&nbsp;
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">&nbsp;
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">&nbsp;
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">&nbsp;
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">&nbsp;
