@@ -18,113 +18,37 @@ Sou Jailton, estudante de Engenharia de Software e desenvolvedor dedicado a cria
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jailtoncmf&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
-
-
-<div style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: center; font-family: Verdana, sans-serif;">
-
-  
-  <span style="display: inline-flex; align-items: center; background:#ED8B00; color:#fff; font-weight:600; font-size:12px; padding:6px 12px; border-radius:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" style="margin-right:6px;"> Java
-  </span>
-
-  <span style="display: inline-flex; align-items: center; background:#1f4d00; color:#fff; font-weight:600; font-size:12px; padding:6px 12px; border-radius:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="20" style="margin-right:6px;"> Spring
-  </span>
-
-  <span style="display: inline-flex; align-items: center; background:#3DDC84; color:#fff; font-weight:600; font-size:12px; padding:6px 12px; border-radius:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="20" style="margin-right:6px;"> Android
-  </span>
-
-  <span style="display: inline-flex; align-items: center; background:#323330; color:#F7DF1E; font-weight:600; font-size:12px; padding:6px 12px; border-radius:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" style="margin-right:6px;"> JavaScript
-  </span>
-
-  <span style="display: inline-flex; align-items: center; background:#000c4d; color:#fff; font-weight:600; font-size:12px; padding:6px 12px; border-radius:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" style="margin-right:6px;"> TypeScript
-  </span>
-
-  <span style="display: inline-flex; align-items: center; background:#E34F26; color:#fff; font-weight:600; font-size:12px; padding:6px 12px; border-radius:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" style="margin-right:6px;"> HTML5
-  </span>
-
-  <span style="display: inline-flex; align-items: center; background:#1572B6; color:#fff; font-weight:600; font-size:12px; padding:6px 12px; border-radius:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" style="margin-right:6px;"> CSS3
-  </span>
-
-  <span style="display: inline-flex; align-items: center; background:#20232a; color:#61DAFB; font-weight:600; font-size:12px; padding:6px 12px; border-radius:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" style="margin-right:6px;"> React
-  </span>
-
-  <span style="display: inline-flex; align-items: center; background:#6DA55F; color:#fff; font-weight:600; font-size:12px; padding:6px 12px; border-radius:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" style="margin-right:6px;"> Node.js
-  </span>
-
-  <span style="display: inline-flex; align-items: center; background:#3670A0; color:#ffdd54; font-weight:600; font-size:12px; padding:6px 12px; border-radius:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" style="margin-right:6px;"> Python
-  </span>
-
-  <span style="display: inline-flex; align-items: center; background:#2b3152; color:#fff; font-weight:600; font-size:12px; padding:6px 12px; border-radius:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="20" style="margin-right:6px;"> Flask
-  </span>
-
-  <span style="display: inline-flex; align-items: center; background:#000c4d; color:#fff; font-weight:600; font-size:12px; padding:6px 12px; border-radius:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="20" style="margin-right:6px;"> FastAPI
-  </span>
-
-  <span style="display: inline-flex; align-items: center; background:#3ea82b; color:#fff; font-weight:600; font-size:12px; padding:6px 12px; border-radius:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20" style="margin-right:6px;"> Django
-  </span>
-
-  <span style="display: inline-flex; align-items: center; background:#336791; color:#fff; font-weight:600; font-size:12px; padding:6px 12px; border-radius:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" style="margin-right:6px;"> PostgreSQL
-  </span>
-
-  <span style="display: inline-flex; align-items: center; background:#07405e; color:#fff; font-weight:600; font-size:12px; padding:6px 12px; border-radius:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="20" style="margin-right:6px;"> SQLite
-  </span>
-
-  <span style="display: inline-flex; align-items: center; background:#000000; color:#fff; font-weight:600; font-size:12px; padding:6px 12px; border-radius:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" style="margin-right:6px;"> Git
-  </span>
-
-  <span style="display: inline-flex; align-items: center; background:#696969; color:#fff; font-weight:600; font-size:12px; padding:6px 12px; border-radius:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20" style="margin-right:6px;"> Figma
-  </span>
-
-  <span style="display: inline-flex; align-items: center; background:#007ACC; color:#fff; font-weight:600; font-size:12px; padding:6px 12px; border-radius:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20" style="margin-right:6px;"> VS Code
-  </span>
-
-  <span style="display: inline-flex; align-items: center; background:#000000; color:#fff; font-weight:600; font-size:12px; padding:6px 12px; border-radius:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="20" style="margin-right:6px;"> Eclipse
-  </span>
-
-  <span style="display: inline-flex; align-items: center; background:#000000; color:#2CA5E0; font-weight:600; font-size:12px; padding:6px 12px; border-radius:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="20" style="margin-right:6px;"> Windows
-  </span>
-
+<div style="display: inline_block" align="center"><br>
+  <img alt="Jai-Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">&nbsp;
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">&nbsp;
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">&nbsp;
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">&nbsp;
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;
+  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">&nbsp;
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">&nbsp;
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">&nbsp;
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">&nbsp;
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">&nbsp;
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-60635e?style=for-the-badge&logo=figma&logoColor=white">&nbsp;
+  <img alt="VSCode" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">&nbsp;
+  <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">&nbsp;
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white">&nbsp;
 </div>
+<br>
 
  ---
 
-<div style="display:flex; justify-content:center; gap:10px; align-items:center;">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jailton.mocitaiba@gmail.com" target="_blank" style="text-decoration:none;">
-    <div style="display:flex; align-items:center; background-color:#EA4335; color:white; padding:5px 12px; border-radius:5px; font-family:sans-serif; font-weight:bold;">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" height="20" style="margin-right:6px;">
-      Gmail
-    </div>
-  </a>
-
-  <a href="https://www.linkedin.com/in/jailton-mocitaiba-752283232/" target="_blank" style="text-decoration:none;">
-    <div style="display:flex; align-items:center; background-color:#0A66C2; color:white; padding:5px 12px; border-radius:5px; font-family:sans-serif; font-weight:bold;">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="20" style="margin-right:6px;">
-      LinkedIn
-    </div>
-  </a>
+<div align="center"> 
+  <a href = "https://mail.google.com/mail/?view=cm&fs=1&to=jailton.mocitaiba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-F05032?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jailton-mocitaiba-752283232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
-
-
-
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=337a4b&height=120&section=footer"/>
