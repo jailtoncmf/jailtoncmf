@@ -9,7 +9,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Na minha jornada como estudante e desenvolvedor, desenvolvi e colaborei em projetos backend e frontend, utilizando Java (Spring Boot, Hibernate, Android SDK), Python (Django, FastAPI, Flask), JavaScript/TypeScript (React, Node), HTML, CSS, bancos de dados como PostgreSQL, além de AWS (EC2, S3, Lambda, CloudWatch) e Kafka. De forma que o foco principal é resolver problemas de forma eficiente e segura. Dessa forma, aderi às boas práticas de desenvolvimento, aplicando princípios de POO, design patterns, SOLID e testes automatizados, criando soluções escaláveis, robustas e de alta qualidade. 
+Na minha jornada como estudante e desenvolvedor, sempre me mantenho participando em projetos backend e frontend, utilizando Java (Spring Boot, Hibernate, Android SDK), Python (Django, FastAPI, Flask), JavaScript/TypeScript (React, Node), HTML, CSS, bancos de dados como PostgreSQL, além de AWS (EC2, S3, Lambda, CloudWatch) e Kafka. De forma que o foco principal é resolver problemas de forma eficiente e segura. Dessa forma, aderi às boas práticas de desenvolvimento, aplicando princípios de POO, design patterns, SOLID e testes automatizados, criando soluções escaláveis, robustas e de alta qualidade. 
 
 ---
 
